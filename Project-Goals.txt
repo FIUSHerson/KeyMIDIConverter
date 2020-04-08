@@ -1,0 +1,3 @@
+Should accept inputs from all midi channels
+Has input and output
+Can accept MIDI/Key in and MIDI/Key out
